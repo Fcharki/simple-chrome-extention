@@ -10,11 +10,7 @@ my-extension/
 ├── popup.html
 ├── popup.js
 ├── popup.css (optional)
-├── icons/
-│   ├── icon16.png
-│   ├── icon48.png
-│   └── icon128.png
-└── content.js (optional)
+├── bg.png
 ```
 
 ---
