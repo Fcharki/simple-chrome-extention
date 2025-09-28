@@ -1,0 +1,12 @@
+{
+  "name": "Change BG Extensions",
+ "description": "Change background color with one click",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "bg.png"
+  }
+  ,
+  "permissions": ["activeTab", "scripting"]
+}
