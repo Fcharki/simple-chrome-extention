@@ -6,11 +6,11 @@ Make a folder for your extension, e.g., `my-extension`.
 Example structure:
 
 my-extension/
-├─ manifest.json
-├─ popup.html
-├─ popup.js
-├─ popup.css (optional)
-├─ bg.png (optional)
+├── manifest.json
+├── popup.html
+├── popup.js
+├── popup.css (optional)
+├── bg.png
 
 ---
 
