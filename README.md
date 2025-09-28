@@ -30,8 +30,9 @@ Example:
     "default_popup": "popup.html"
   }
 }
+```
 
-## 3. Add UI (optional
+## 3. Add UI (optional)
 Create `popup.html` for the popup interface when the extension icon is clicked.
 
 ## 4. Add Functionality
